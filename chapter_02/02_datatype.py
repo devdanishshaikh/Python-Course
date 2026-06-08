@@ -6,4 +6,4 @@ c = "Hello, World!" # c is string data type that holds the value "Hello, World!"
 
 d = True # d is boolean data type that holds the value True
 
-e = None # e is NoneType data type that holds the value None
+f = None # f is NoneType data type that holds the value None
