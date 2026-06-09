@@ -30,3 +30,13 @@ print("Greater than a > b :",a>b)
 print("less than a < b :",a<b)
 print("Greater than equals to a >= b:",a>=b)
 print("less than equals to a <= b :",a<=b)
+
+#logical Operator
+print("\nLogical Operator")
+x = True
+y = False
+#for OR operator any one of them is true result is true
+print("value of x or Y :", x or y)
+print("value of x and Y :", x and y)
+print("value of not x :", not x)
+print("value of not y :", not y)
