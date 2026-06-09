@@ -1,6 +1,6 @@
 a = input("Enter a first number: ")
-b = int(input("Enter a second number: "))
-c = float(input("Enter a third number: "))
+b = float(input("Enter a second number: "))
+c = int(input("Enter a third number: "))
 
 print("a :",a)
 print("b :",b)
